@@ -1,0 +1,24 @@
+Paper:
+May 09 09:00~10:20 Communication through Visualization
+paper1:
+Data is Personal: Attitudes and Perceptions of Data Visualization in Rural Pennsylvania 
+
+paper2:
+DataSelfie: Empowering People to Design Personalized Visuals to Represent Their Data
+
+paper3:
+A Bayesian Cognition Approach to Improve Data Visualization 
+
+paper4;
+Concept-Driven Visual Analytics: an Exploratory Study of Model- and Hypothesis-Based Reasoning with Visualizations
+
+May 09 14:00~15:20 Civic Engagement, Trust, and Meaning
+
+paper5:
+Online Idea Management for Civic Engagement: A Study on the Benefits of Integration with Social Networking
+
+paper6:
+Older Adults' Deployment of 'Distrust'
+
+paper7:
+Personal Informatics for Sport: Meaning, Body, and Social Relations in Amateur and Elite Athletes

@@ -1,0 +1,52 @@
+choosen Session:
+May 06 11:00~12:20 Interaction with Videos 2
+May 06 11:00~12:20 Designing for Vulnerable Poulations 1
+May 06 14:00~15:20 Empathy, Emotion, and Intimate Relationships 2
+May 06 14:00~15:20 Preception of Data Visualization 2
+May 06 16:00~17:20 Tech for Education 2
+May 06 16:00~17:20 All Eyes On Us:Gaze Interactions 1
+May 07 09:00~10:20 Trustiong Machines 2
+May 07 16:00~17:20 Visualization System and Repositories 2
+May 09 09:00~10:20 Understading People Online 1
+May 09 09:00~10:20 Communicatino through Visualization 1
+May 09 14:00~15:20 Conversational Interactions 1
+May 09 14:00~15:20 Civic Engagement, Trust, and Meaning 1 
+
+
+Priority
+May 06 11:00~12:20 Designing for Vulnerable Poulations 1
+May 06 16:00~17:20 All Eyes On Us:Gaze Interactions 1
+May 09 09:00~10:20 Understading People Online 1
+May 09 09:00~10:20 Communicatino through Visualization 0
+May 09 14:00~15:20 Conversational Interactions 0
+May 09 14:00~15:20 Civic Engagement, Trust, and Meaning 0 
+
+
+
+Paper:
+May 09 09:00~10:20 Communication through Visualization
+paper1:
+Data is Personal: Attitudes and Perceptions of Data Visualization in Rural Pennsylvania 
+
+paper2:
+DataSelfie: Empowering People to Design Personalized Visuals to Represent Their Data
+
+paper3:
+A Bayesian Cognition Approach to Improve Data Visualization 
+
+paper4;
+Concept-Driven Visual Analytics: an Exploratory Study of Model- and Hypothesis-Based Reasoning with Visualizations
+
+May 09 14:00~15:20 Conversational Interactions 
+paper5
+Chatbots, Humbots, and the Quest for Artificial General Intelligence 
+
+paper6
+"Wait, Do I Know This Person?": Understanding Misdirected Email 
+
+
+paper7
+Opportunities for Automating Email Processing: A Need-Finding Study 
+
+paper8
+Explaining Decision-Making Algorithms through UI: Strategies to Help Non-Expert Stakeholders 
